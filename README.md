@@ -1,4 +1,4 @@
-# VectorDB — Python Port
+# EMBED-X ⚡️
 
 A fully working **Vector Database** built from scratch in Python with a web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
@@ -17,6 +17,17 @@ VectorDB/
 ```
 
 ---
+## UI
+![img1](https://github.com/aditya20051004/EMBED-X/blob/main/img_file/img1.png)
+
+## DEMO 
+**Before_Inserting_Info**
+![img](https://github.com/aditya20051004/EMBED-X/blob/main/img_file/img2.png)
+**After_Inserting_Info**
+![img](https://github.com/aditya20051004/EMBED-X/blob/main/img_file/img3.png)
+**Question_Asked**
+![img](https://github.com/aditya20051004/EMBED-X/blob/main/img_file/img4.png)
+
 
 ## Prerequisites
 
