@@ -119,6 +119,8 @@ self.gen_model = "llama3.2:1b"
 | Embedding takes forever | Ollama is downloading model on first use, wait ~2 min |
 
 ---
+**Future_Devlopment**
+Live Link - (Coming Soon......)
 
 ## License
 
