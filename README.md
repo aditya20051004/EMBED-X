@@ -3,7 +3,7 @@
 A fully working **Vector Database** built from scratch in Python with a web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
 
-> Python port of the original C++ project. Zero external vector-math libraries — all algorithms are pure Python.
+
 
 ---
 
